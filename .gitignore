@@ -3,3 +3,7 @@
 *.sublime-project
 # ignore sublime workspace files
 *.sublime-workspace 
+# ignore the notepad checkpoints directory 
+.ipynb_checkpoints/
+# and the other one 
+Jup_NBs/.ipynb_checkpoints/
